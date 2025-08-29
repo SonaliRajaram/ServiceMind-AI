@@ -1,5 +1,5 @@
-## TaskBot-AI
-TaskBot-AI is an intelligent customer chatbot application designed to assist users with various services by handling multiple types of customer inquiries (Service Inquiry, Cancel Request, Reschedule Request, Working Hours Inquiry, Pricing Inquiry, Greeting Response) and providing relevant information in real time.  
+## ServiceMind-AI
+ServiceMind-AI is an intelligent customer chatbot application designed to assist users with various services by handling multiple types of customer inquiries (Service Inquiry, Cancel Request, Reschedule Request, Working Hours Inquiry, Pricing Inquiry, Greeting Response) and providing relevant information in real time.  
 
 ## Features  
 - **Automated Customer Support** – Provides real-time responses to user queries.  
