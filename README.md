@@ -15,7 +15,9 @@ TaskBot-AI/
     │-- chatbot.html          # HTML file for the chatbot interface  
 │-- chatbot.py            # Main Python script for chatbot logic  
 │-- config.py             # Configuration file for chatbot settings  
-│-- main.py               # Entry point for running the chatbot application  
+│-- main.py               # Entry point for running the chatbot application
+│-- notification_email.py # Sending email via SMTP configuration
+│-- .env                  # Storing SMTP config details  
 │-- test_main.py          # Unit tests for chatbot functionalities  
 │-- validators.py         # Python script for input validation  
 │-- requirements.txt      # List of dependencies for the project  
