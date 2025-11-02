@@ -117,8 +117,10 @@
         <div id="chatbox"></div>
         <div class="chat-input">
             <input type="text" id="userInput" placeholder="Type a message..." required>
-            <button onclick="sendMessage()" onkeypress="sendMessage()">Send</button>
+            <button id="micBtn" onclick="startVoiceInput()">🎤</button>
+            <button onclick="sendMessage()">Send</button>
         </div>
+
     </section>
 
     <script src="{{ url_for('static', filename='chatbotScript.js') }}"></script>
